@@ -217,7 +217,7 @@ label>span{
     margin-left: 2rem;
   }
   .seg2 .card{
-    margin-left: 2%;
+    margin-left: 10%;
 }
 .seg3 .why{
     font-size: 30px;
@@ -227,10 +227,10 @@ label>span{
     width: 80%;
 }
 .seg2 h1{
-  margin-left: 2%;
+  margin-left: 5%;
 }
 .seg2 h6{
-  margin-left: 2%;
+  margin-left: 5%;
 }
 }
 
